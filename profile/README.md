@@ -1,10 +1,10 @@
-![ACM@UIUC logo](https://wiki.acm.illinois.edu/brand/banner-blue.svg)
+<div align="center">
+  <img src="https://wiki.acm.illinois.edu/brand/banner-blue.svg" alt="ACM@UIUC logo" style="width: 40%;"/>
+  <br/><br/>
+</div>
 
-<h1 align="center">
-ACM @ UIUC
-</h1>
 
-ACM @ UIUC is the [University of Illinois's](https://illinois.edu) largest [Computer Science](https://cs.illinois.edu) organization.
+ACM @ UIUC is the [University of Illinois's](https://cs.illinois.edu) largest computer science organization. It is a student chapter of the national [Association for Computing Machinery](https://acm.org).
 
 For over 50 years, ACM@UIUC has been a hub for innovation and leadership for students everywhere. Our inclusivity has created a strong network of students and alumni, bringing their diverse interests to ACM.
 
