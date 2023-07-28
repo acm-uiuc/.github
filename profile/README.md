@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wiki.acm.illinois.edu/brand/banner-blue.svg" alt="ACM@UIUC logo" style="width: 40%;"/>
+  <img src="https://docs.acm.illinois.edu/attachments/3" alt="ACM@UIUC logo" style="width: 40%;"/>
   <br/><br/>
 </div>
 
