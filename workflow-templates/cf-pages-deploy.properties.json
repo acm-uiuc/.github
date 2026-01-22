@@ -1,0 +1,14 @@
+{
+    "name": "Deploy to Cloudflare Pages",
+    "description": "Deploy to Cloudflare Pages with preview branches and builds in Github Actions.",
+    "iconName": "octicon rocket",
+    "categories": [
+        "React",
+        "Node"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "vite.config.ts$",
+        "public/"
+    ]
+}
