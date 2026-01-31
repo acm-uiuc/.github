@@ -1,0 +1,10 @@
+{
+    "name": "Automatic GitHub Releases from package.json",
+    "description": "Create a GitHub release when the version number of the root package.json is updated.",
+    "categories": [
+        "Node"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
